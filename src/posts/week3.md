@@ -2,7 +2,7 @@
 title: week3
 description: IDEE GENIALI
 author: stocazzo
-date: 2022-02-2
+date: 2022-02-22
 tags:
   - left
   - center
